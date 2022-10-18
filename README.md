@@ -7,5 +7,5 @@ Using the AppDelagate,
 a varaible is assigned to
 all the views. The variable is 
 then incremented via viewDidLoad
-to show th proper way of variable
+to show the proper way of variable
 access/storage in global variable.
